@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Нажми кнопку</string>
+    <string name="button_text_push_me" translatable="false">Нажми меня</string>
+    <array name="texts">
+            <string name="1">НАЖМИ!</string>
+        <string name="2">Жми!</string>
+        <string name="3">Жмякни!</string>
+        <string name="4">Жмякай</string>
+        <string name="5">Ха!ТЫКАЙ</string>
+        <string name="6">Тыкни меня</string>
+        <string name="7">ЖМИ!!!</string>
+        <string name="8">НАЖИМАЙ</string>
+        <string name="9">Жми уже</string>
+        <string name="10">Жамкай</string>
+    </array>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Push the button</string>
+    <string name="button_text_push_me">Push me</string>
+    <array name="texts">
+        <string name="1">PUSH!</string>
+        <string name="2">Puush!</string>
+        <string name="3">PUSH ME!</string>
+        <string name="4">Puush me</string>
+        <string name="5">LOL!Push me</string>
+        <string name="6">ROFL!Push</string>
+        <string name="7">PUSH!!!</string>
+        <string name="8">PuSh Me!</string>
+        <string name="9">PUpuPush!</string>
+        <string name="10">Push now!</string>
+    </array>
+</resources>
